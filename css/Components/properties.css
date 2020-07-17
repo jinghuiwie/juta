@@ -1,0 +1,60 @@
+.properties {
+  background-color: #EFE9DF;
+  text-align:center;
+  padding:20px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+}
+
+.properties h2 {
+  color:#B49B6D;
+  letter-spacing: 10px;
+  font-family: 'Playfair Display', serif;
+  text-align:center;
+}
+
+.cards{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1px;
+  background-color: #EFE9DF;
+}
+
+.card-prop{
+  background-color: white;
+  border-radius:2px;
+  width: 350px;
+  height: 300px;
+  text-align: center;
+  margin:5px auto;
+}
+
+.card-prop img{
+  width:350px;
+  height:235px;
+  object-fit: cover;
+}
+
+.card-prop h3{
+  margin: 20px;
+  text-align: center;
+}
+
+#commercial {
+  background-color: white;
+}
+
+#commercial h2 {
+  color:#B49B6D;
+}
+
+#commercialcard{
+  background-color: #EFE9DF;
+}
+
+#commercialcard h3{
+  color: black;
+}
+
+#near-footer{
+ height: 450px;
+}
