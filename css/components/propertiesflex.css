@@ -36,7 +36,13 @@
   color:#706c61;
 }
 
+a {
+  text-decoration: none;
+}
 
+a:hover{
+  color:#D5343A;
+}
 
 
 

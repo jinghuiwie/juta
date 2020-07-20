@@ -25,6 +25,14 @@ h1,h2,h3{
 	letter-spacing: 1px;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color:#D5343A;
+}
+
 
 /*MEDIA QUARIESSS*/
 
