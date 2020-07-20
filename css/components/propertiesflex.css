@@ -1,0 +1,59 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px 50px;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.cards img{
+  width:350px;
+  height:235px;
+}
+
+.properties {
+  background-color: #EFE9DF;
+  padding:20px 20px 80px 20px;
+  text-align:center;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+}
+
+.properties h2 {
+  color:#B49B6D;
+  letter-spacing: 10px;
+  font-family: 'Playfair Display', serif;
+  text-align:center;
+}
+
+.card-prop{
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  background-color: white;
+}
+
+.card-prop h3{
+  margin: 20px;
+  text-align: center;
+  color:#706c61;
+}
+
+
+
+
+
+#commercial{
+  background-color: white;
+  color: #706c61;
+}
+
+#commercial h2 {
+  color:#B49B6D;
+}
+
+#commercialcard {
+  padding: 0px 500px;
+}
+
+#upcoming{
+ height: 450px;
+}
+
