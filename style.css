@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,600&family=Nanum+Gothic&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,400;1,600&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,400&display=swap" rel="stylesheet");
 
 
 @import url("components/top-bar.css");
@@ -13,7 +13,7 @@
 body{
 	background-color: white;
 	color:black;
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	text-justify: justify;
 	font-weight: lighter;

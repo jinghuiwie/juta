@@ -31,8 +31,8 @@
 
 
  .btn-white{
-  color: #B49B6D;
-  background-color: white;
+  color: white;
+  background-color: #B49B6D;
   padding:16px 30px;
   border-radius: 4px;
   font-size: 15px;
@@ -43,7 +43,7 @@
 }
 
 .btn-white:hover{
-  background-color: #B49B6D;
-  color:white;
+  background-color: white;
+  color:#B49B6D;
 }
 
