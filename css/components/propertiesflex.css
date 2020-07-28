@@ -12,7 +12,9 @@
 }
 
 .properties {
-  background-color: #EFE9DF;
+  background-image: url("../../images/whitebg.png");
+  background-repeat: none;
+  background-size: 100%;
   padding:20px 20px 80px 20px;
   text-align:center;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
@@ -49,6 +51,7 @@ a:hover{
 
 #commercial{
   background-color: white;
+  background-image: none;
   color: #706c61;
 }
 
